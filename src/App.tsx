@@ -1,11 +1,13 @@
 // src/App.tsx
 import { Routes, Route } from 'react-router-dom';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import { Layout } from './components/Layout';
 import { LandingPage } from './pages/LandingPage';
 import { ExplorePage } from './pages/ExplorePage';
 import { CategoryPage } from './pages/CategoryPage';
 import { CustomCursor } from './components/CustomCursor';
 import { useLanguage } from './contexts/LanguageContext';
+
 
 function App() {
   const { isLoading } = useLanguage();
@@ -24,6 +26,7 @@ function App() {
   return (
     <div className="bg-white min-h-screen cursor-none text-gray-800">
       <CustomCursor />
+      <SpeedInsights />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<LandingPage />} />
