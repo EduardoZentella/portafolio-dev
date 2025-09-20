@@ -1,0 +1,49 @@
+﻿# Spanish translations
+navigation:
+  home: "Inicio"
+  about: "Acerca"
+  work: "Trabajo"
+  contact: "Contacto"
+
+portfolio:
+  categories:
+    illustration: "Ilustración"
+    painting: "Pintura"
+    design: "Diseño"
+    all: "Explora"
+
+content:
+  welcome: "Bienvenido a mi portafolio"
+  portfolio_subtitle: "Una colección de trabajos creativos y exploraciones artísticas"
+  about_text: "Artista y diseñadora explorando la intersección entre momentos cotidianos y expresión creativa."
+  scroll_down: "Desplázate hacia abajo"
+  explore: "Explora"
+  follow_me: "Sígueme"
+  instagram: "Instagram"
+  
+  # Landing page story text
+  story:
+    lines:
+      - "Bienvenido a mi universo"
+      - "creativo donde los momentos"
+      - "cotidianos se transforman en"
+      - "expresiones artísticas."
+      - "Cada pieza cuenta una historia,"
+      - "cada trazo captura una"
+      - "emoción, cada color"
+      - "revela un recuerdo."
+  
+  # Words that have underline hover effects
+  underlined_words:
+    creative: "creativo"
+    moments: "momentos"
+    story: "historia"
+    emotion: "emoción"
+
+projects:
+  project_1: "Historias Urbanas"
+  project_2: "Bocetos de Vida Diaria"
+  project_3: "Pensamientos Abstractos"
+  project_4: "Ritmos de Ciudad"
+  project_5: "Café Matutino"
+  project_6: "Notas de Viaje"

@@ -1,0 +1,48 @@
+﻿# English translations
+navigation:
+  home: "Home"
+  about: "About" 
+  work: "Work"
+  contact: "Contact"
+
+portfolio:
+  categories:
+    illustration: "Illustration"
+    painting: "Painting"
+    design: "Design"
+    all: "Explore"
+
+content:
+  welcome: "Welcome to my portfolio"
+  portfolio_subtitle: "A collection of creative works and artistic explorations"
+  about_text: "Artist and designer exploring the intersection of everyday moments and creative expression."
+  scroll_down: "Scroll down"
+  explore: "Explore"
+  follow_me: "Follow me"
+  instagram: "Instagram"
+  
+  # Landing page story text
+  story:
+    lines:
+      - "Welcome to my creative"
+      - "universe where everyday"
+      - "moments transform into"
+      - "artistic expressions."
+      - "Each piece tells a story,"
+      - "each stroke captures an"
+      - "emotion, each color"
+      - "reveals a memory."
+    # Words that have underline hover effects
+    underlined_words:
+      creative: "creative"
+      moments: "moments" 
+      story: "story"
+      emotion: "emotion"
+
+projects:
+  project_1: "Urban Stories"
+  project_2: "Daily Life Sketches"
+  project_3: "Abstract Thoughts"
+  project_4: "City Rhythms"
+  project_5: "Morning Coffee"
+  project_6: "Travel Notes"
